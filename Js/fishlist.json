@@ -1,0 +1,394 @@
+[
+    {
+        "nombre": "Pez globo",
+        "precio": 200,
+        "peso": 94,
+        "nivel": 80,
+        "descripcion": "Se hincha cuando lo amenazan. "
+    },
+    {
+        "nombre": "Anchoa",
+        "precio": 30,
+        "peso": 43,
+        "nivel": 30,
+        "descripcion": "Un pequeño pez plateado del océano."
+    },
+    {
+        "nombre": "Atún",
+        "precio": 100,
+        "peso": 155,
+        "nivel": 70,
+        "descripcion": "Un gran pez que vive en el océano."
+    },
+    {
+        "nombre": "Sardina",
+        "precio": 40,
+        "peso": 33,
+        "nivel": 30,
+        "descripcion": "Un pez de agua salada común."
+    },
+    {
+        "nombre": "Besugo",
+        "precio": 45,
+        "peso": 33,
+        "nivel": 35,
+        "descripcion": "Un pez de río bastante común que se vuelve activo por la noche."
+    },
+    {
+        "nombre": "Perca",
+        "precio": 100,
+        "peso": 31,
+        "nivel": 50,
+        "descripcion": "Un pez popular que vive en los lagos."
+    },
+    {
+        "nombre": "Lubina",
+        "precio": 50,
+        "peso": 64,
+        "nivel": 28,
+        "descripcion": "Un pez de agua dulce muy sensible a la contaminación."
+    },
+    {
+        "nombre": "Trucha arcoíris",
+        "precio": 65,
+        "peso": 66,
+        "nivel": 45,
+        "descripcion": "Una trucha de agua dulce con marcas de colores."
+    },
+    {
+        "nombre": "Salmón",
+        "precio": 75,
+        "peso": 168,
+        "nivel": 50,
+        "descripcion": "Nada a contracorriente para desovar."
+    },
+    {
+        "nombre": "Lucio",
+        "precio": 105,
+        "peso": 104,
+        "nivel": 45,
+        "descripcion": "Un pez de agua dulce que se pesca de noche."
+    },
+    {
+        "nombre": "Cachuelo",
+        "precio": 55,
+        "peso": 64,
+        "nivel": 35,
+        "descripcion": "Un pez invernal de agua dulce."
+    },
+    {
+        "nombre": "Carpa",
+        "precio": 30,
+        "peso": 130,
+        "nivel": 15,
+        "descripcion": "Un pez de estanque común."
+    },
+    {
+        "nombre": "Pez gato",
+        "precio": 200,
+        "peso": 185,
+        "nivel": 75,
+        "descripcion": "Un pez poco común de los arroyos."
+    },
+    {
+        "nombre": "Sauri",
+        "precio": 100,
+        "peso": 155,
+        "nivel": 60,
+        "descripcion": "Un pez de agua dulce difícil de capturar."
+    },
+    {
+        "nombre": "Pez sol",
+        "precio": 30,
+        "peso": 41,
+        "nivel": 30,
+        "descripcion": "Un pez de río común."
+    },
+    {
+        "nombre": "Salmonete",
+        "precio": 75,
+        "peso": 58,
+        "nivel": 55,
+        "descripcion": "Hace mucho eran considerados mascotas."
+    },
+    {
+        "nombre": "Arenque",
+        "precio": 30,
+        "peso": 53,
+        "nivel": 25,
+        "descripcion": "Un pez de agua salada común."
+    },
+    {
+        "nombre": "Anguila",
+        "precio": 85,
+        "peso": 206,
+        "nivel": 70,
+        "descripcion": "Un pez pequeño, largo y resbaladizo."
+    },
+    {
+        "nombre": "Pulpo",
+        "precio": 150,
+        "peso": 124,
+        "nivel": 95,
+        "descripcion": "Una criatura misteriosa e inteligente."
+    },
+    {
+        "nombre": "Pargo colorado",
+        "precio": 50,
+        "peso": 66,
+        "nivel": 40,
+        "descripcion": "Un pez popular de un bonito color rojo."
+    },
+    {
+        "nombre": "Calamar",
+        "precio": 80,
+        "peso": 124,
+        "nivel": 75,
+        "descripcion": "Una criatura del fondo marino que puede crecer hasta ser enorme."
+    },
+    {
+        "nombre": "Pepino de mar",
+        "precio": 75,
+        "peso": 53,
+        "nivel": 40,
+        "descripcion": "Una criatura resbaladiza y viscosa que se encuentra en el fondo del mar."
+    },
+    {
+        "nombre": "Superpepino",
+        "precio": 250,
+        "peso": 94,
+        "nivel": 80,
+        "descripcion": "Una variedad lila poco común del pepino de mar."
+    },
+    {
+        "nombre": "Pez fantasma",
+        "precio": 45,
+        "peso": 91,
+        "nivel": 50,
+        "descripcion": "Un pez pálido y ciego que habita en lagos subterráneos."
+    },
+    {
+        "nombre": "Pez piedra",
+        "precio": 300,
+        "peso": 41,
+        "nivel": 65,
+        "descripcion": "Un pez extraño con forma de ladrillo."
+    },
+    {
+        "nombre": "Pez carámbano",
+        "precio": 500,
+        "peso": 23,
+        "nivel": 85,
+        "descripcion": "Un pez poco común que prospera en condiciones extremadamente frías."
+    },
+    {
+        "nombre": "Anguila de lava",
+        "precio": 700,
+        "peso": 84,
+        "nivel": 90,
+        "descripcion": "Es capaz de sobrevivir en estanques de lava al rojo vivo."
+    },
+    {
+        "nombre": "Lenguado",
+        "precio": 75,
+        "peso": 64,
+        "nivel": 65,
+        "descripcion": "Intenta esconderse usando camuflaje."
+    },
+    {
+        "nombre": "Carpa escorpión",
+        "precio": 150,
+        "peso": 84,
+        "nivel": 90,
+        "descripcion": "Es como una carpa normal pero con un aguijón afilado."
+    },
+    {
+        "nombre": "Platija",
+        "precio": 100,
+        "peso": 43,
+        "nivel": 50,
+        "descripcion": "Vive en la parte inferior, por lo que ambos ojos están encima de su cabeza."
+    },
+    {
+        "nombre": "Carpa de medianoche",
+        "precio": 150,
+        "peso": 135,
+        "nivel": 55,
+        "descripcion": "Este pez tímido solo se siente cómodo por la noche."
+    },
+    {
+        "nombre": "Esturión",
+        "precio": 200,
+        "peso": 155,
+        "nivel": 78,
+        "descripcion": "Un pez cada vez más escaso que se alimenta del lecho acuático. Las hembras pueden vivir hasta 150 años."
+    },
+    {
+        "nombre": "Trucha tigre",
+        "precio": 150,
+        "peso": 53,
+        "nivel": 60,
+        "descripcion": "Una trucha híbrida poco común que no puede reproducirse."
+    },
+    {
+        "nombre": "Siluro",
+        "precio": 75,
+        "peso": 79,
+        "nivel": 46,
+        "descripcion": "Un pariente del pez gato que se alimenta de lo que hay en el fondo de los lagos."
+    },
+    {
+        "nombre": "Tilapia",
+        "precio": 75,
+        "peso": 79,
+        "nivel": 50,
+        "descripcion": "Un pez principalmente vegetariano que prefiere el agua templada."
+    },
+    {
+        "nombre": "Barbo",
+        "precio": 50,
+        "peso": 64,
+        "nivel": 35,
+        "descripcion": "Un pez de agua dulce común y famoso por su voraz apetito."
+    },
+    {
+        "nombre": "Dorado",
+        "precio": 100,
+        "peso": 84,
+        "nivel": 78,
+        "descripcion": "Un carnívoro fiero con escamas naranja brillante."
+    },
+    {
+        "nombre": "Atún blanco",
+        "precio": 75,
+        "peso": 104,
+        "nivel": 60,
+        "descripcion": "Le gustan los choques de temperatura, donde el agua fría y caliente se juntan."
+    },
+    {
+        "nombre": "Sábalo",
+        "precio": 60,
+        "peso": 124,
+        "nivel": 45,
+        "descripcion": "Vive en bancos en el mar, pero vuelve a los ríos para desovar."
+    },
+    {
+        "nombre": "Bacalao largo",
+        "precio": 120,
+        "peso": 130,
+        "nivel": 85,
+        "descripcion": "Un temible depredador que come casi cualquier cosa que le quepa en la boca."
+    },
+    {
+        "nombre": "Fletán",
+        "precio": 80,
+        "peso": 86,
+        "nivel": 50,
+        "descripcion": "Un pez plano que vive en el fondo marino."
+    },
+    {
+        "nombre": "Muyu",
+        "precio": 75,
+        "peso": 79,
+        "nivel": 50,
+        "descripcion": "Un pez muy sensible que solo puede vivir en estanques en la profundidad del bosque."
+    },
+    {
+        "nombre": "Salmón sombrío",
+        "precio": 150,
+        "peso": 168,
+        "nivel": 80,
+        "descripcion": "Un salmón corrompido por el poder de las sombras. Su carne fresca es de color negro azabache, pero se vuelve rosa rápidamente al exponerse al aire."
+    },
+    {
+        "nombre": "Babolín",
+        "precio": 100,
+        "peso": 66,
+        "nivel": 55,
+        "descripcion": "Está cubierto por una espesa capa de baba. ¡No deja de resbalársete!"
+    },
+    {
+        "nombre": "Mantarraya",
+        "precio": 180,
+        "peso": 155,
+        "nivel": 80,
+        "descripcion": "A pesar de tener un aguijón tóxico, estos peces son tímidos y prefieren evitar a los humanos."
+    },
+    {
+        "nombre": "Pez león",
+        "precio": 100,
+        "peso": 33,
+        "nivel": 50,
+        "descripcion": "Un agresivo pez depredador con espinas venenosas."
+    },
+    {
+        "nombre": "Pez disco",
+        "precio": 120,
+        "peso": 25,
+        "nivel": 60,
+        "descripcion": "Un pez tropical con colores brillantes que es popular en acuarios."
+    },
+    {
+        "nombre": "Palometa",
+        "precio": 150,
+        "peso": 13,
+        "nivel": 55,
+        "descripcion": "Algunos tipos de palometa pueden subir cascadas."
+    },
+    {
+        "nombre": "Calamar de medianoche",
+        "precio": 100,
+        "peso": 66,
+        "nivel": 55,
+        "descripcion": "Un extraño y misterioso habitante de las profundidades oceánicas tras el crepúsculo."
+    },
+    {
+        "nombre": "Pez asustado",
+        "precio": 220,
+        "peso": 66,
+        "nivel": 60,
+        "descripcion": "Unos ojos gigantescos para detectar las débiles siluetas de las presas."
+    },
+    {
+        "nombre": "Pez gota",
+        "precio": 500,
+        "peso": 66,
+        "nivel": 75,
+        "descripcion": "Esta extraña criatura flota sobre el suelo oceánico y consume todo material comestible que se encuentre a su paso."
+    },
+    {
+        "nombre": "Pez carmesí",
+        "precio": 1500,
+        "peso": 53,
+        "nivel": 95,
+        "descripcion": "Vive en las profundidades del océano, pero le gusta desovar en el agua cálida del verano."
+    },
+    {
+        "nombre": "Rape",
+        "precio": 900,
+        "peso": 48,
+        "nivel": 85,
+        "descripcion": "Utiliza un señuelo bioluminiscente para atraer a sus presas."
+    },
+    {
+        "nombre": "Leyenda",
+        "precio": 5000,
+        "peso": 130,
+        "nivel": 110,
+        "descripcion": "¡El rey de los peces! Se decía que nadie lo pescaría."
+    },
+    {
+        "nombre": "Pez glacial",
+        "precio": 1000,
+        "peso": 71,
+        "nivel": 100,
+        "descripcion": "Construye su nido bajo los glaciares."
+    },
+    {
+        "nombre": "Carpa mutante",
+        "precio": 1000,
+        "peso": 94,
+        "nivel": 80,
+        "descripcion": "Las extrañas aguas de la cloaca han convertido a esta carpa en una monstruosidad."
+    }
+]

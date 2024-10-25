@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../Css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+    <h1 id="titulo">Simulador de Pesca</h1>
+    <div id="textoContenedor" class="columna">
+        <button id="btnGuardar">Guardar Partida</button>
+        <button id="btnBorrar">Borrar Partida</button>
+        <div class="texto">
+            <p id="dinero">Dinero:</p>
+            <p id="nivelTotal">Nivel Total:</p>
+            <p id="carnada">Carnada:</p>
+            <p id="empleados">Empleados:</p>
+        </div>
+        <table id="tiendaTable">
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Comprar?</th>
+            </tr>
+        </table>
+        <p hidden id="alertaNivel" class="texto"><strong>No tienes con que pescar. ¡Deberias comprar una caña!</strong></p>
+        <p hidden id="alertaDinero" class="texto"><strong>No tienes suficiente dinero.</strong></p>
+    </div>
+    <div class="columna">
+        <button id="btnPescar">Pescar</button>
+        <button id="venderTodo">Vender todos</button>
+        <table id="pezTable">
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Peso</th>
+                <th>Precio</th>
+                <th>Vender?</th>
+            </tr>
+        </table>
+    </div>
+    <div class="columna"></div>
+        <div id="imgContenedor"></div>
+    </div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../Js/script.js" type="module"></script>
+</body>
+</html>
