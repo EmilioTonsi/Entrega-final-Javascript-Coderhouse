@@ -129,6 +129,7 @@ function pezGenerador(carnadaCantidad){
         generarPrecio = generarPrecio * 2
         generarVariacion = generarVariacion * (-1)
         carnada = (carnada - 1)
+        carnadaHTML.innerText = ('Carnada: ' + carnada)
     }
     let pezAtrapado = new Pez(
         pecesAtrapados.length,
