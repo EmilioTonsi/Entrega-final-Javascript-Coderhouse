@@ -24,6 +24,7 @@ La lista de los peces que se pueden atrapar y sus estadisticas provienen de 'htt
 **Librerias utilizadas:**
 
 -SweetAlert2
+-Toastify JS
 
 **Lenguajes y herramientas utilizadas:**
 - Visual Studio Code                                                                                                                                                  
